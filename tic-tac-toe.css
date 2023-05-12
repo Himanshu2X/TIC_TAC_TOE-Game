@@ -1,5 +1,4 @@
-body 
-{
+body {
  background-color: white;
 }
 
@@ -11,8 +10,7 @@ body
   align-items: center;
 }
 
-.heading 
-{
+.heading {
   color: rgb(0, 138, 7);
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 60px;
@@ -38,13 +36,11 @@ td {
   transition: 0.2s ease;
 }
 
-td:hover 
-{
+td:hover {
   transform: scale(.9);
 }
 
-.reset-btn 
-{
+.reset-btn {
   color: rgb(221, 0, 0);
   font-size: 15px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -58,8 +54,7 @@ td:hover
   transition: 0.5s ease;
 }
 
-.reset-btn:hover 
-{
+.reset-btn:hover {
   background-color: rgb(221, 0, 0);
   color: white;
   transform: scale(1.2);

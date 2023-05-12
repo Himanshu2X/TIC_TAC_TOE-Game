@@ -64,5 +64,3 @@ function checkForTie() {
     alert("It's a tie!");
   }
 }
-
-
